@@ -1,14 +1,14 @@
-#VISUALISEUR DE CALCUL
+# Visualiseur de Calcul
 
-##Version 2.0
+## Version 2.0
 
-###Introduction
+### Introduction
 
 Le visualisur de calcul est un projet personnel développé en Python pour faciliter l'apprentissage des notions fondamentales du calcul, notamment :
 
-*Les dérivées;
-*Les intégrales;
-*Les limites.
+* Les dérivées ;
+* Les intégrales ;
+* Les limites.
 
 L'objectif de ce projet est d'aider les utilisateurs à mieux comprendre ces concepts grâce à leur représentation graphique, et aussi calculer des résultats mathématiques
 
@@ -16,9 +16,9 @@ Ce projet a été réalisé dans le cadre de mon auto-apprentissage de Python ai
 
 ---
 
-##Fonctionnalités
+## Fonctionnalités
 
-###1.Dérivées
+### 1. Dérivées
 
 L'utilisateur saisit :
 
